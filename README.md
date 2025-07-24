@@ -1,6 +1,6 @@
 # Hey, I'm Alok Kirar
 💻 Web Developer | Frontend Enthusiast  
-🧠 Learning: HTML, CSS, JavaScript, React  
+🧠 Learning: HTML, CSS, JavaScript, React  , Python
 🚀 I love building interactive, user-friendly websites  
 
 🌐 Portfolio: [Click here](https://alok960.github.io/portfolio/)  
